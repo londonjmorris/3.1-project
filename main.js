@@ -15,7 +15,7 @@ givenName = "Tim";
 // 3.
 // What is `givenName` set to right now?
 givenName = givenName;
-// A:undefined
+// A: "Tim"
 
 
 // 4.
@@ -144,7 +144,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A:"True!"
+// A:"False!"
 
 
 // 22.
